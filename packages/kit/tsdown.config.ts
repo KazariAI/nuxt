@@ -8,7 +8,6 @@ export default defineConfig({
   deps: {
     onlyBundle: [],
     neverBundle: [
-      '@rspack/core',
       '@nuxt/schema',
       'nitro/types',
       'nitropack/types',
